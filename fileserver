@@ -11,8 +11,8 @@ import java.net.Socket;
 
 public class FileServer {
 
-  public final static int SOCKET_PORT = 300;  
-  public final static String FILE_TO_SEND = "C:\\Users\\tunc\\Desktop\\deneme.txt";  
+  public final static int SOCKET_PORT = 8000;  
+  public final static String FILE_TO_SEND = "C:\\Users\\baris\\Desktop\\odev1.txt";  
 
   public static void main (String [] args ) throws IOException {
     FileInputStream fis = null;
