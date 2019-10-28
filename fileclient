@@ -12,7 +12,7 @@ public class FileClient {
   public final static int SOCKET_PORT = 8000;      
   public final static String SERVER = "94.122.149.61";  
   public final static String
-       FILE_TO_RECEIVED = "C:\\Users\\baris\\Desktop\\server\\odev1.txt"; 
+       FILE_TO_RECEIVED = "C:\\Users\\baris\\Desktop\\odev1.txt"; 
 
   public final static int FILE_SIZE = 6022386; 
 
